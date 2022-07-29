@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as c,d as o}from"./app.3d54766a.js";const r={},s={id:"react",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#react","aria-hidden":"true"},"#",-1),n=o(" React"),d=[_,n];function i(h,f){return t(),a("h1",s,d)}var x=e(r,[["render",i]]);export{x as default};
