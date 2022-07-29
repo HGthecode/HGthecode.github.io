@@ -1,0 +1,28 @@
+
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(157, 165, 183, 0.5);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(157, 165, 183, 0.7);
+    box-shadow: none;
+  }
+
+.page.blog{
+    .blog-hero.fullscreen{
+        height: 20px!important;
+        .hero-logo,h1,.slide-down-wrapper{
+            display: none;
+        }
+    }
+    .mask{
+        background: linear-gradient( 135deg, #2AFADF 10%, #4C83FF 100%)!important;
+    }
+}
+.theme-container .navbar .nav-links{
+    justify-content: right;
+}
+.text-color{
+    color: var(--text-color);
+}
