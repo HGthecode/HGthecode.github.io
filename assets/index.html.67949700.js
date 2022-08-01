@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as o,d as s}from"./app.290a6d28.js";const c={},r={id:"php",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#php","aria-hidden":"true"},"#",-1),n=s(" PHP"),d=[_,n];function h(i,p){return t(),a("h1",r,d)}var l=e(c,[["render",h]]);export{l as default};
